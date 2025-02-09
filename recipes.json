@@ -1,0 +1,335 @@
+{
+    "recipes": [
+        {
+            "name": "Classic Pancakes",
+            "ingredients": ["flour", "milk", "eggs", "butter", "sugar", "baking powder"],
+            "instructions": [
+                "Mix dry ingredients",
+                "Add wet ingredients",
+                "Cook on griddle"
+            ],
+            "type": "Breakfast",
+            "cooking_time": 20,
+            "difficulty": "Easy",
+            "servings": 4
+        },
+        {
+            "name": "Chicken Stir Fry",
+            "ingredients": ["chicken", "broccoli", "carrots", "soy sauce", "garlic", "ginger", "rice"],
+            "instructions": [
+                "Cook rice",
+                "Stir fry vegetables",
+                "Add chicken and sauce"
+            ],
+            "type": "Lunch",
+            "cooking_time": 30,
+            "difficulty": "Medium",
+            "servings": 4
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "ingredients": ["spaghetti", "eggs", "bacon", "parmesan cheese", "black pepper", "garlic"],
+            "instructions": [
+                "Cook pasta",
+                "Fry bacon",
+                "Mix eggs and cheese",
+                "Combine all ingredients"
+            ],
+            "type": "Dinner",
+            "cooking_time": 25,
+            "difficulty": "Medium",
+            "servings": 4
+        },
+        {
+            "name": "Greek Salad",
+            "ingredients": ["cucumber", "tomatoes", "red onion", "olives", "feta cheese", "olive oil"],
+            "instructions": [
+                "Chop vegetables",
+                "Add cheese and olives",
+                "Dress with olive oil"
+            ],
+            "type": "Lunch",
+            "cooking_time": 15,
+            "difficulty": "Easy",
+            "servings": 2
+        },
+        {
+            "name": "Overnight Oats",
+            "ingredients": ["oats", "milk", "yogurt", "honey", "chia seeds", "berries"],
+            "instructions": [
+                "Mix oats with milk and yogurt",
+                "Add honey and chia seeds",
+                "Refrigerate overnight",
+                "Top with berries"
+            ],
+            "type": "Breakfast",
+            "cooking_time": 10,
+            "difficulty": "Easy",
+            "servings": 1
+        },
+        {
+            "name": "Beef Tacos",
+            "ingredients": ["ground beef", "taco seasoning", "tortillas", "lettuce", "tomatoes", "cheese", "sour cream"],
+            "instructions": [
+                "Brown the beef",
+                "Add taco seasoning",
+                "Warm tortillas",
+                "Assemble tacos with toppings"
+            ],
+            "type": "Dinner",
+            "cooking_time": 25,
+            "difficulty": "Easy",
+            "servings": 4
+        },
+        {
+            "name": "Vegetable Soup",
+            "ingredients": ["carrots", "celery", "onion", "potatoes", "vegetable broth", "garlic", "herbs"],
+            "instructions": [
+                "Chop vegetables",
+                "Sauté onion and garlic",
+                "Add vegetables and broth",
+                "Simmer until vegetables are tender"
+            ],
+            "type": "Lunch",
+            "cooking_time": 45,
+            "difficulty": "Easy",
+            "servings": 6
+        },
+        {
+            "name": "Banana Smoothie",
+            "ingredients": ["banana", "milk", "yogurt", "honey", "cinnamon"],
+            "instructions": [
+                "Peel and slice banana",
+                "Combine all ingredients in blender",
+                "Blend until smooth"
+            ],
+            "type": "Breakfast",
+            "cooking_time": 5,
+            "difficulty": "Easy",
+            "servings": 1
+        },
+        {
+            "name": "Chicken Tikka Masala",
+            "ingredients": ["chicken", "yogurt", "tomato sauce", "cream", "garam masala", "garlic", "ginger", "rice"],
+            "instructions": [
+                "Marinate chicken in yogurt and spices",
+                "Grill or bake chicken",
+                "Prepare curry sauce",
+                "Combine chicken with sauce",
+                "Serve with rice"
+            ],
+            "type": "Dinner",
+            "cooking_time": 50,
+            "difficulty": "Hard",
+            "servings": 4
+        },
+        {
+            "name": "Vegetarian Sushi Roll",
+            "ingredients": ["sushi rice", "nori sheets", "cucumber", "avocado", "carrots", "rice vinegar", "sesame seeds"],
+            "instructions": [
+                "Cook and season sushi rice",
+                "Prepare vegetables",
+                "Spread rice on nori",
+                "Add fillings and roll",
+                "Cut into pieces"
+            ],
+            "type": "Lunch",
+            "cooking_time": 40,
+            "difficulty": "Hard",
+            "servings": 3
+        },
+        {
+            "name": "French Toast",
+            "ingredients": ["bread", "eggs", "milk", "vanilla extract", "cinnamon", "maple syrup", "butter"],
+            "instructions": [
+                "Mix eggs, milk, and vanilla",
+                "Dip bread in mixture",
+                "Cook in butter until golden",
+                "Serve with maple syrup"
+            ],
+            "type": "Breakfast",
+            "cooking_time": 20,
+            "difficulty": "Easy",
+            "servings": 4
+        },
+        {
+            "name": "Beef Stir Fry Noodles",
+            "ingredients": ["beef strips", "egg noodles", "bell peppers", "onion", "soy sauce", "oyster sauce", "garlic"],
+            "instructions": [
+                "Cook noodles",
+                "Stir fry beef",
+                "Cook vegetables",
+                "Combine with sauces",
+                "Mix with noodles"
+            ],
+            "type": "Dinner",
+            "cooking_time": 30,
+            "difficulty": "Medium",
+            "servings": 4
+        },
+        {
+            "name": "Mediterranean Quinoa Bowl",
+            "ingredients": ["quinoa", "chickpeas", "cucumber", "tomatoes", "red onion", "feta cheese", "olive oil", "lemon"],
+            "instructions": [
+                "Cook quinoa",
+                "Prepare vegetables",
+                "Mix ingredients",
+                "Dress with olive oil and lemon"
+            ],
+            "type": "Lunch",
+            "cooking_time": 25,
+            "difficulty": "Easy",
+            "servings": 2
+        },
+        {
+            "name": "Chocolate Chip Cookies",
+            "ingredients": ["flour", "butter", "sugar", "brown sugar", "eggs", "vanilla extract", "chocolate chips", "baking soda"],
+            "instructions": [
+                "Cream butter and sugars",
+                "Add eggs and vanilla",
+                "Mix in dry ingredients",
+                "Add chocolate chips",
+                "Bake until golden"
+            ],
+            "type": "Snack",
+            "cooking_time": 25,
+            "difficulty": "Medium",
+            "servings": 24
+        },
+        {
+            "name": "Mushroom Risotto",
+            "ingredients": ["arborio rice", "mushrooms", "onion", "white wine", "vegetable broth", "parmesan cheese", "butter"],
+            "instructions": [
+                "Sauté mushrooms and onion",
+                "Toast rice",
+                "Add wine and broth gradually",
+                "Stir until creamy",
+                "Finish with parmesan"
+            ],
+            "type": "Dinner",
+            "cooking_time": 45,
+            "difficulty": "Hard",
+            "servings": 4
+        },
+        {
+            "name": "Spicy Thai Basil Chicken",
+            "ingredients": ["chicken", "thai basil", "garlic", "chili", "soy sauce", "fish sauce", "sugar", "rice"],
+            "instructions": [
+                "Stir fry chicken",
+                "Add garlic and chili",
+                "Mix in sauces",
+                "Add basil leaves",
+                "Serve with rice"
+            ],
+            "type": "Dinner",
+            "cooking_time": 20,
+            "difficulty": "Medium",
+            "servings": 3
+        },
+        {
+            "name": "Avocado Toast",
+            "ingredients": ["bread", "avocado", "eggs", "cherry tomatoes", "red pepper flakes", "salt", "black pepper"],
+            "instructions": [
+                "Toast bread",
+                "Mash avocado",
+                "Poach eggs",
+                "Assemble toast",
+                "Add toppings"
+            ],
+            "type": "Breakfast",
+            "cooking_time": 15,
+            "difficulty": "Easy",
+            "servings": 2
+        },
+        {
+            "name": "Homemade Pizza",
+            "ingredients": ["pizza dough", "tomato sauce", "mozzarella", "basil", "olive oil", "toppings of choice"],
+            "instructions": [
+                "Prepare pizza dough",
+                "Spread sauce",
+                "Add cheese and toppings",
+                "Bake until crispy",
+                "Garnish with basil"
+            ],
+            "type": "Dinner",
+            "cooking_time": 35,
+            "difficulty": "Medium",
+            "servings": 4
+        },
+        {
+            "name": "Lentil Soup",
+            "ingredients": ["lentils", "carrots", "celery", "onion", "garlic", "vegetable broth", "cumin", "spinach"],
+            "instructions": [
+                "Sauté vegetables",
+                "Add lentils and broth",
+                "Season with spices",
+                "Simmer until tender",
+                "Add spinach"
+            ],
+            "type": "Lunch",
+            "cooking_time": 40,
+            "difficulty": "Easy",
+            "servings": 6
+        },
+        {
+            "name": "Fruit Parfait",
+            "ingredients": ["yogurt", "granola", "mixed berries", "honey", "chia seeds"],
+            "instructions": [
+                "Layer yogurt",
+                "Add granola",
+                "Add fresh berries",
+                "Drizzle honey",
+                "Sprinkle chia seeds"
+            ],
+            "type": "Breakfast",
+            "cooking_time": 10,
+            "difficulty": "Easy",
+            "servings": 1
+        },
+        {
+            "name": "Shrimp Scampi",
+            "ingredients": ["shrimp", "linguine", "garlic", "white wine", "butter", "lemon", "parsley", "red pepper flakes"],
+            "instructions": [
+                "Cook pasta",
+                "Sauté garlic",
+                "Cook shrimp",
+                "Make wine sauce",
+                "Combine with pasta"
+            ],
+            "type": "Dinner",
+            "cooking_time": 25,
+            "difficulty": "Medium",
+            "servings": 4
+        },
+        {
+            "name": "Black Bean Burrito Bowl",
+            "ingredients": ["black beans", "rice", "corn", "tomatoes", "avocado", "lime", "cilantro", "cheese"],
+            "instructions": [
+                "Cook rice",
+                "Heat beans",
+                "Prepare vegetables",
+                "Assemble bowl",
+                "Add toppings"
+            ],
+            "type": "Lunch",
+            "cooking_time": 30,
+            "difficulty": "Easy",
+            "servings": 2
+        },
+        {
+            "name": "Tiramisu",
+            "ingredients": ["ladyfingers", "coffee", "mascarpone", "eggs", "sugar", "cocoa powder"],
+            "instructions": [
+                "Prepare coffee",
+                "Mix mascarpone filling",
+                "Dip ladyfingers",
+                "Layer ingredients",
+                "Chill overnight"
+            ],
+            "type": "Dessert",
+            "cooking_time": 40,
+            "difficulty": "Hard",
+            "servings": 8
+        }
+    ]
+}
